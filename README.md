@@ -1,2 +1,2 @@
 # hola_github
-git branch -M main
+ya me quiero ir pa mi casa
